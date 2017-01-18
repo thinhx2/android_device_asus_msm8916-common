@@ -140,8 +140,8 @@ PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/keylayout/msm8939-snd-card-mtp_Button_Jack.kl:system/usr/keylayout/msm8939-snd-card-mtp_Button_Jack.kl \
     $(LOCAL_PATH)/keylayout/synaptics_dsx.kl:system/usr/keylayout/synaptics_dsx.kl \
     $(LOCAL_PATH)/keylayout/synaptics_rmi4_i2c.kl:system/usr/keylayout/synaptics_rmi4_i2c.kl
- 
-#Keystore
+
+# Keystore
 PRODUCT_PACKAGES += \
     keystore.msm8916
 
